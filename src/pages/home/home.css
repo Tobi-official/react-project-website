@@ -265,7 +265,7 @@ footer {
 .footer--socials {
     margin-top: 1.5rem;
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
     align-items: center;
 }
 
@@ -402,17 +402,19 @@ footer {
     .card.values--value {
         width: 84%;
         margin-inline: auto;
+        margin: 0 auto;
     }
 
     /* FAQs */
     .faqs--wrapper {
         gap: 1rem;
         margin-top: 3rem;
+        margin-inline: auto;
     }
 
     /* TESTIMONIALS */
     .testimonials {
-        width: 100%;
+        width: 84%;
     }
 
     /* TESTIMONIALS */
