@@ -384,12 +384,13 @@ footer {
 
     .programs--wrapper {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 1rem;
         margin-top: 3rem;
+        align-items: center;
     }
 
     .programs--program {
-        width: 84%;
+        width: 100%;
         margin: 0 auto;
     }
 
@@ -400,7 +401,7 @@ footer {
     }
 
     .card.values--value {
-        width: 84%;
+        width: 100%;
         margin-inline: auto;
     }
 
